@@ -1,0 +1,3 @@
+Scenario,Worst P(detect),Worst latitude,Worst longitude
+Single launch,0.44,15.0,140.0
+Two launches,0.572,-20.0,155.0

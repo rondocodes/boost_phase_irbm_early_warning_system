@@ -1,0 +1,9 @@
+Parameter,Value
+Plume radiance scaling K_PLUME,2e+18
+Background radiance B_BG,50000.0
+Read noise,150.0
+Cosine angular exponent,1.0
+SNR threshold,4.0
+Atmospheric attenuation coefficient,0.08
+Dwell time (s),0.5
+Max concurrent tracks per sat,1.0

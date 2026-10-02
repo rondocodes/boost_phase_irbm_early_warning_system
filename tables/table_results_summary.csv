@@ -1,0 +1,3 @@
+Scenario,Mean P(detect),Min P(detect),Median detection time (s)
+Single launch,0.7758125,0.44,26.0
+Two simultaneous launches,0.8766208333333334,0.572,26.0

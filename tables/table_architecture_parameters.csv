@@ -1,0 +1,12 @@
+Parameter,Value
+Orbit type,Circular LEO
+Altitude (km),1000.0
+Total satellites,12
+Orbital planes,3
+Satellites per plane,4
+Inclinations (deg),"[30.0, 45.0, 70.0]"
+ΔRAAN12 (deg),120.0
+ΔRAAN13 (deg),60.0
+Max steering (deg),60.0
+Slew rate (deg/s),30.0
+Monte Carlo trials per point,1000

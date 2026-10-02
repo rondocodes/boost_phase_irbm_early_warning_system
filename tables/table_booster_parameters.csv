@@ -1,0 +1,9 @@
+Parameter,Value
+Threat class proxy,IRBM-like
+Boost duration (s),210.0
+Target burnout altitude (km),300.0
+Target burnout velocity (m/s),4500.0
+Pitch start (s),10.0
+Pitch end (s),90.0
+Final pitch angle (deg),45.0
+Minimum detectable altitude (km),15.0
