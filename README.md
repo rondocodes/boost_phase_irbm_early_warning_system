@@ -2,8 +2,6 @@
 
 **Boost-phase IRBM detection over Southeast Asia using a 12-satellite LEO constellation**
 
-**Darrel Jeremiah Rondonuwu · Personal research project · Python**
-
 ## Overview
 
 I undertook this project to investigate the potential of a small satellite constellation to detect intermediate-range ballistic missiles (IRBMs) during their boost phase over Southeast Asia. My interest in aerospace encouraged me to explore how orbital motion, observation constraints, and uncertainty can be brought together in a computational study.
